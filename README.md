@@ -2,10 +2,11 @@
 
 <p align="right" style="opacity: .5"> <img src="https://komarev.com/ghpvc/?username=jaksonmoura&label=Profile%20views&color=0e75b6&style=flat" alt="jaksonmoura" /> </p>
 
-<h1>Hi 👋, I'm Jakson</h1>
+# Hi 👋, I'm Jakson
 ### A frontend developer from Brazil, looking for new opportunities
 <p>🌱 I’m currently learning <strong>React.js</strong></p>
-<hr/>
+
+---
 
 ### Languages and Tools:
 <p>
