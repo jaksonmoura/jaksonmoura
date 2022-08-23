@@ -12,11 +12,11 @@ A front-end developer from Brazil, looking for new opportunities.
 
 ### Some projects:
 
-<ul style="display: flex; justify-content: flex-start; margin: 0; padding: 10px; list-style: none; gap: 10px; width: 100%; max-height: 250px; background: #eef2f3; border-radius: 10px">
-    <li><a href="https://github.com/jaksonmoura/TMDBClone"><img src="/tmdb.jpg" alt =""/></a></li>
-    <li><a href="https://github.com/jaksonmoura/PexelsGallery"><img src="/pexels.jpg" alt =""/></a></li>
-    <li><a href="https://github.com/jaksonmoura/fake-store-react"><img src="/store.jpg" alt =""/></a></li>
-</ul>
+<div style="display: flex; justify-content: flex-start; padding: 10px; gap: 10px; width: 100%; max-height: 250px; background: #eef2f3; border-radius: 10px">
+    <div><a href="https://github.com/jaksonmoura/TMDBClone"><img src="/tmdb.jpg" alt =""/></a></div>
+    <div><a href="https://github.com/jaksonmoura/PexelsGallery"><img src="/pexels.jpg" alt =""/></a></div>
+    <div><a href="https://github.com/jaksonmoura/fake-store-react"><img src="/store.jpg" alt =""/></a></div>
+</div>
 <!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaksonmoura&show_icons=true&theme=dark&locale=en&layout=compact" alt="jaksonmoura" />
 
