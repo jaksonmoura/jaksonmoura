@@ -13,7 +13,3 @@ A front-end developer from Brazil, looking for new opportunities.
 #### Connect with me:
 
 <a href="https://linkedin.com/in/jaksonmoura" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaksonmoura" height="20" width="20" /></a>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaksonmoura&show_icons=true&theme=dark&locale=en&layout=compact" alt="jaksonmoura" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=jaksonmoura&show_icons=true&theme=dark&locale=en" alt="jaksonmoura" />
